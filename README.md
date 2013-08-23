@@ -1,6 +1,8 @@
-iconsCSS3
+forsqare iconsCSS3
 =========
 
-CSS3 Icons
+Hi there! This is CSS3 Icons Set, created by Me.
 
- - Forsquare HTML+CSS3 icon 256x256
+You can use it it anywhere!
+
+ - Forsquare logo HTML+CSS3 icon 256x256 (Forsqare CSS logo, icon)
